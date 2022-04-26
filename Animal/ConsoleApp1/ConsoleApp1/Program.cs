@@ -13,13 +13,13 @@ namespace ConsoleApp1
         }
     }
     class Animal {
-        public void eat() { }
-        public void makeSound() { }    }
+        public void eat_121() { }
+        public void makeSound_121() { }    }
     class Cat : Animal
     {
-        public void run() { }
+        public void run_121() { }
     }
     class Bird : Animal {
-        public void fly() { }
+        public void fly_121() { }
     }
 }
